@@ -1,0 +1,19 @@
+.navmenu2{position:fixed;
+            font-family: monospace;
+            font-size:16px;
+            color: white;
+            width:220px;
+            height: 91%;
+            background-color: rgb(13, 13, 13);
+            overflow: hidden;
+            white-space: nowrap;
+            overflow-y:scroll;
+            top: 70px;
+            z-index: 0;
+}
+
+.nm1, .nm2, .nm3, .nm4, .nm5{line-height: 39px;
+    display: flex;
+    justify-content: start;
+    margin-left:20px;
+}

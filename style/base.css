@@ -1,0 +1,8 @@
+body{margin: 0;
+        background-color: rgb(13, 13, 13);
+        overflow-y: scroll;
+}
+
+a{color:currentColor;
+    text-decoration: none;
+}
