@@ -5,7 +5,9 @@
 
 Початковий або постійник варіант лівої навігаційної панеіл. Commit: Second navigate panel
 
-Кінцевий стан навігаційних панелей. Commit: Ended nav menu
+!Кінцевий! стан навігаційних панелей. Commit: Ended nav menu
 
 Початковий стан сітки з відео. Commit: Grid
+
+Початковий стан адаптації. Commit: Adaptation
 

@@ -1,0 +1,132 @@
+.AYouTubeIcon{width:49px;
+                height:24px;
+}
+
+.Asearchbtn{display: none;}
+
+@media (max-width:320px) {
+    .navmenu2{display: none;
+    }
+    header{height:70px;
+            position: fixed;
+    }
+    .YouTubeButton{font-size: 22px;
+                    top:34%;
+    }
+    .AYouTubeIcon{height:22px;
+                    width:37px;
+    }
+    .SearchBarCentre{display: none;
+    }
+    .video{display:grid;
+            grid-template-columns:repeat(1,100px);
+            grid-template-rows: auto;
+            row-gap: 1px;
+    }
+    .Asearchbtn{position: absolute;
+                display: flex;
+                left:87%;
+                top:34%;
+                font-size: 23px;
+    }
+    .video1{padding-left:10px;
+            padding-top:90px;
+    img{width:300px;
+        height: 170px;
+        border-radius: 10px;
+    }
+}
+    .video2, .video3, .video4, .video5, .video6, .video7, .video8, .video9{
+    padding-left:10px;
+    padding-top:25px;
+    img{width:300px;
+        height: 170px;
+        border-radius: 10px;
+    }
+}
+}
+
+@media (max-width:480px) {
+    .navmenu2{display: none;
+    }
+    header{height:70px;
+            position: fixed;
+    }
+    .YouTubeButton{font-size: 25px;
+                    top:34%;
+    }
+    .AYouTubeIcon{height:25px;
+                    width:45px;
+    }
+    .SearchBarCentre{display: none;
+    }
+    .video{display:grid;
+            grid-template-columns:repeat(1,100px);
+            grid-template-rows: auto;
+            row-gap: 1px;
+    }
+    .Asearchbtn{position: absolute;
+                display: flex;
+                left:87%;
+                top:34%;
+                font-size: 23px;
+    }
+    .video1{padding-left:15px;
+            padding-top:90px;
+    img{width:450px;
+        height: 210px;
+        border-radius: 10px;
+    }
+}
+    .video2, .video3, .video4, .video5, .video6, .video7, .video8, .video9{
+    padding-left:15px;
+    padding-top:25px;
+    img{width:450px;
+        height: 210px;
+        border-radius: 10px;
+    }
+}
+}
+
+@media (max-width:340px) {
+    .navmenu2{display: none;
+    }
+    header{height:70px;
+            position: fixed;
+    }
+    .YouTubeButton{font-size: 25px;
+                    top:34%;
+    }
+    .AYouTubeIcon{height:25px;
+                    width:45px;
+    }
+    .SearchBarCentre{display: none;
+    }
+    .video{display:grid;
+            grid-template-columns:repeat(1,100px);
+            grid-template-rows: auto;
+            row-gap: 1px;
+    }
+    .Asearchbtn{position: absolute;
+                display: flex;
+                left:87%;
+                top:34%;
+                font-size: 23px;
+    }
+    .video1{padding-left:15px;
+            padding-top:90px;
+    img{width:360px;
+        height: 200px;
+        border-radius: 10px;
+    }
+}
+    .video2, .video3, .video4, .video5, .video6, .video7, .video8, .video9{
+    padding-left:15px;
+    padding-top:25px;
+    img{width:360px;
+        height: 200px;
+        border-radius: 10px;
+    }
+}
+}
+

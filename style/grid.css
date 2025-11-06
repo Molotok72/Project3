@@ -12,9 +12,8 @@ img{width:535px;
   color:white;
   row-gap: 220px;
   column-gap: 250px;
-}
 
 .pvideo{white-space: nowrap;
         font-size: 18px;
-        padding-bottom: 50px;
+}
 }
